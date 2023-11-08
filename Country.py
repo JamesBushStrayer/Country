@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="windows-1252"?>
 # Name: James Alan Bush
 # Course Number: CIS261005VA016-1238-001
 # Assignment Title: Country
